@@ -1,0 +1,52 @@
+.card {
+    display: flex;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    cursor: pointer;
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .description {
+    display: flex;
+    padding-left: 18px;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 14px;
+  }
+  
+  #name {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Tahoma;
+  }
+  
+  #username {
+    color: white;
+    font-family: Arial;
+  }
+
+  #email {
+    color: white;
+    font-family: Arial;
+  }
+
+  #bio {
+    color: white;
+    font-family: Arial;
+  }
+
+  #company {
+    color: white;
+    font-family: Arial;
+  }
+
+  #location {
+    color: white;
+    font-family: Arial;
+  }

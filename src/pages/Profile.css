@@ -1,0 +1,16 @@
+.Title{
+    display: flex;
+    justify-content: center;
+  }
+  .textTitle{
+    color: white;
+    font-family: Verdana;
+    font-size: 25px;
+  }
+  
+  .Profilelist{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+  
